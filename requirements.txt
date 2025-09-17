@@ -1,0 +1,12 @@
+# For making HTTP requests
+requests
+
+# For data manipulation and analysis
+pandas
+
+# For creating the API
+fastapi
+uvicorn[standard]
+
+# For creating the dashboard
+streamlit
